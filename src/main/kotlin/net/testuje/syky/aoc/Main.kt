@@ -1,8 +1,8 @@
 package net.testuje.syky.aoc
 
-import net.testuje.syky.aoc.year2023.*
+import net.testuje.syky.aoc.year2024.*
 
 fun main() {
-    val task = Day4()
+    val task = Day1()
     task.run()
 }
